@@ -38,3 +38,12 @@ Display remote url
 Clone Repo
 
     git clone git@github.com:nuboat/gittutorial.git gittutorial
+
+Update README.md
+
+    git commit -a -m "Update README.md"
+
+
+Branch
+
+    git checkout -b develop
